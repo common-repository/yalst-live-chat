@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yalst\n"
+"POT-Creation-Date: 2016-03-29 21:11+0200\n"
+"PO-Revision-Date: 2016-03-29 21:23+0200\n"
+"Last-Translator: \n"
+"Language-Team: Andreas Beckmann <beckmann@visisoft.de>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/IntegrationHelper.class.php:24
+#: classes/RegistrationHelper.class.php:17
+msgid "Live Chat Plugin für Wordpress"
+msgstr "Live chat plugin for WordPress"
+
+#: classes/IntegrationHelper.class.php:31
+msgid "Wo wollen Sie den Chatbutton einbinden?"
+msgstr "How and where do you want to include the chat or the chat buttons?"
+
+#: classes/IntegrationHelper.class.php:35
+msgid "Einbindung deaktiviert"
+msgstr "Integration code disabled"
+
+#: classes/IntegrationHelper.class.php:36
+msgid "Auf allen Seiten als Chat in der Webseite"
+msgstr "On all pages as tab chat directly in the page (recommended)"
+
+#: classes/IntegrationHelper.class.php:37
+msgid "Auf allen Seiten als Reiter/Tabbutton"
+msgstr "On all pages as graphical tab button"
+
+#: classes/IntegrationHelper.class.php:38
+msgid ""
+"Auf allen Seiten als Reiter/Tab und zusätzlich über Widgets (vorgeschritten)"
+msgstr ""
+"On all pages as graphical tab button and additionally using widgets "
+"(advanced)"
+
+#: classes/IntegrationHelper.class.php:39
+msgid "Nur über Widgets (vorgeschritten)"
+msgstr "Only using widgets (advanced)"
+
+#: classes/IntegrationHelper.class.php:41
+msgid ""
+"Mit Widgets können Sie Buttons im Seitenverlauf, verschiedene Buttons für "
+"verschiedene Abteilungen, mehrere Buttons auf einer Seite usw. einbinden."
+msgstr ""
+"Using widgets you can include buttons in the page flow, different buttons "
+"for different departments, multiple buttons on a page etc."
+
+#: classes/IntegrationHelper.class.php:56
+msgid "Deaktivieren Sie den Einbindungscode."
+msgstr "Deactivate the integration code."
+
+#: classes/IntegrationHelper.class.php:64
+msgid "Hier können Sie den Einbindungscode im Footer deaktivieren."
+msgstr "Here, you can disable the integration code in the Wordpress footer."
+
+#: classes/IntegrationHelper.class.php:65
+msgid "Achtung:"
+msgstr "Note:"
+
+#: classes/IntegrationHelper.class.php:66
+msgid ""
+"Wenn Sie Einbindungen über Widgets genutzt haben, löschen Sie die Widgets in "
+"den jeweiligen Elementen unter Design > Widgets."
+msgstr ""
+"If you have used integrations using widgets, delete the widgets in each "
+"element (sidebar etc.) in the Appearance > Widgets menue."
+
+#: classes/IntegrationHelper.class.php:69
+#: classes/IntegrationHelper.class.php:257
+msgid "Anwenden"
+msgstr "Apply"
+
+#: classes/IntegrationHelper.class.php:90
+#: classes/IntegrationHelper.class.php:142
+msgid "Kopieren Sie hierher bitte den Einbindungscode."
+msgstr "Please copy the integration code into here."
+
+#: classes/IntegrationHelper.class.php:94
+msgid "Tab-Chat wurde hinzugefügt."
+msgstr ""
+"The minimal necessary parameter for a tab chat has been automatically added "
+"to the integration code."
+
+#: classes/IntegrationHelper.class.php:106
+#: classes/IntegrationHelper.class.php:158
+msgid ""
+"Sie finden den Einbindungscode in der Administration am Ende des StartUp-"
+"Wizards."
+msgstr ""
+"The integration code is generated in the administration at the end of the "
+"startup wizard."
+
+#: classes/IntegrationHelper.class.php:107
+#: classes/IntegrationHelper.class.php:159
+msgid ""
+"Oder Sie generieren in der Administration diesen sehr individuell im HTML-"
+"Codegenerator. (Punkt: Einbindung > HTML-Codegenerator)"
+msgstr ""
+"Or you can generate it very individual in the Administration in the HTML "
+"Code Generator. (Integration > HTML Code Generator)"
+
+#: classes/IntegrationHelper.class.php:108
+msgid ""
+"Ein Tab erscheint dann auf jeder Seite und nach dem Klick startet der Chat."
+msgstr ""
+"A tab will appear on each page and a click will start the chat directly at "
+"the webpage."
+
+#: classes/IntegrationHelper.class.php:111
+msgid ""
+"Tip: Zusätzliche Einbindungen (wie z.B. Warenkorbmonitoring usw.) können "
+"über Widgets eingebaut werden"
+msgstr ""
+"Hint: Additional integrations (for e.g. shopping cart monitoring or "
+"conversion tracking) can be added by using widgets."
+
+#: classes/IntegrationHelper.class.php:114
+#: classes/IntegrationHelper.class.php:163
+#: classes/IntegrationHelper.class.php:223
+msgid "Speichern"
+msgstr "Save"
+
+#: classes/IntegrationHelper.class.php:119
+#: classes/IntegrationHelper.class.php:121
+#: classes/IntegrationHelper.class.php:168
+#: classes/IntegrationHelper.class.php:170
+#: classes/IntegrationHelper.class.php:228
+#: classes/IntegrationHelper.class.php:230
+#: classes/IntegrationHelper.class.php:262
+#: classes/IntegrationHelper.class.php:264
+msgid "Code holen (Administration)"
+msgstr "Get Integration Codes"
+
+#: classes/IntegrationHelper.class.php:146
+#: classes/IntegrationHelper.class.php:201
+msgid "Reiter wurde hinzugefügt."
+msgstr ""
+"The tab parameter has been automatically added to the integration code."
+
+#: classes/IntegrationHelper.class.php:160
+#: classes/IntegrationHelper.class.php:196
+msgid "Der Button erscheint dann auf jeder Seite als Reiter/Tab."
+msgstr ""
+"The button will appear on each page as tab and the chat will start in a new "
+"popup window."
+
+#: classes/IntegrationHelper.class.php:191
+msgid "Reiter/Tab-Button"
+msgstr "Tab Button"
+
+#: classes/IntegrationHelper.class.php:194
+msgid ""
+"Sie können hier einen Einbindungscode hineinkopieren, der automatisch in den "
+"Footer integriert wird."
+msgstr ""
+"You can copy an integration code here that will be automatically integrated "
+"into the wordpress footer."
+
+#: classes/IntegrationHelper.class.php:195
+msgid ""
+"Einen entsprechenden Einbindungscode finden Sie in der Administration am "
+"Ende des StartUp-Wizards oder im HTML-Codegenerator. (Punkt: Einbindung > "
+"HTML-Codegenerator)."
+msgstr ""
+"For a corresponding integration code see the Administration at the end of "
+"the StartUp Wizard or in the HTML Code Generator. (Integration > HTML Code "
+"Generator)."
+
+#: classes/IntegrationHelper.class.php:214
+msgid "Mit Widgets"
+msgstr "Using Widgets"
+
+#: classes/IntegrationHelper.class.php:218
+#: classes/IntegrationHelper.class.php:248
+msgid ""
+"Ziehen das Widget einfach an die gewünschten Stellen und kopieren Sie die "
+"passenden Einbindungscodes aus der Administration (Punkt: Einbindung > HTML-"
+"Codegenerator) in die entsprechenden Textfelder."
+msgstr ""
+"Just drag the widget to the desired locations and copy the appropriate "
+"integration codes from the Administration (Integration > HTML Code "
+"Generator) into the provided text fields."
+
+#: classes/IntegrationHelper.class.php:219
+#: classes/IntegrationHelper.class.php:249
+msgid "Das Widget finden Sie wie üblich unter Design > Widgets."
+msgstr "The widget can be found as usual in the Appearance > Widget menus."
+
+#: classes/RegistrationHelper.class.php:24
+msgid "Haben Sie bereits einen Voll- oder Testzugang von yalst?"
+msgstr "Do you already have a full  or test account of yalst?"
+
+#: classes/RegistrationHelper.class.php:27
+msgid "Ja, ich habe bereits einen yalst-Account!"
+msgstr "Yes, I already have a yalst account!"
+
+#: classes/RegistrationHelper.class.php:28
+msgid "Nein, Ich möchte yalst für 7 Tage unverbindlich testen!"
+msgstr "No, I would like to test yalst for 7 days without any obligation!"
+
+#: widget/yalst-widget.php:10
+msgid "Yalst Live Chat"
+msgstr "Yalst Live Chat"
+
+#: widget/yalst-widget.php:11
+msgid "Eingabe von Einbindungscode für den Live Chat"
+msgstr "Input of integration code for the Yalst Live Chat"
+
+#: widget/yalst-widget.php:32
+msgid "Einbindungscode:"
+msgstr "Integrationcode:"
+
+#: yalstAdmin.class.php:78 yalstAdmin.class.php:128
+msgid "Registration"
+msgstr "Registration"
+
+#: yalstAdmin.class.php:87 yalstAdmin.class.php:129
+msgid "Integration"
+msgstr "Integration"
+
+#~ msgid ""
+#~ "Dieser Plugin erlaubt die einfache Integration des yalst-LiveSupportTools "
+#~ "in Wordpress."
+#~ msgstr ""
+#~ "This plug-in allows easy integration of the yalst-LiveSupportTool into "
+#~ "Wordpress."
+
+#~ msgid "yalst-LiveSupportTool"
+#~ msgstr "Yalst Live Chat"
+
+#~ msgid "Ein Widget wurde generiert."
+#~ msgstr "The widget was generated."
+
+#~ msgid ""
+#~ "Weiterhin können Sie auch hier einen Einbindungscode hineinkopieren, der "
+#~ "automatisch in den Footer integriert wird."
+#~ msgstr ""
+#~ "Furthermore, you can also copy an integration code here that will be "
+#~ "automatically integrated into the wordpress footer."
